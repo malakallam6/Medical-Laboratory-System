@@ -6,7 +6,7 @@ Supervisor: Mohamed Mahmoud Elsayeh
 
 ---
 
-## 📋 Project Overview
+Project Overview
 
 The Medical Laboratory System is a desktop application for managing the everyday operations of a clinical lab. It covers five main areas: patients, the medical tests they go through, the laboratorians who perform those tests, the components and supplies consumed, and the final test results.
 
@@ -24,7 +24,7 @@ A few things worth knowing:
 
 ---
 
-## 🗂️ Repository Structure
+Repository Structure
 
 ```
 Medical-Laboratory-System/
@@ -62,7 +62,7 @@ Medical-Laboratory-System/
 
 ---
 
-## 🚀 How to Run
+How to Run
 
 Two things to set up: the database first, then the app.
 
@@ -125,7 +125,7 @@ The dashboard opens with six tiles — one per module. The Components screen aut
 
 ---
 
-## 👥 Team Members
+Team Members
 
 | Name | Student ID |
 |---|---|

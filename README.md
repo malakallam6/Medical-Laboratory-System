@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/28418483/README.md)
-# 🧪 Medical Laboratory System
+Medical Laboratory System
 
 **Nile University · School of Biotechnology**  
 Supervisor: Mohamed Mahmoud Elsayeh
@@ -135,5 +135,3 @@ Team Members
 | Habiba Ahmed Fareed | 241000534 |
 
 ---
-
-*© 2024 Medical Laboratory System — Nile University, School of Biotechnology*

@@ -2,8 +2,7 @@
 ---
 Medical Laboratory System
 
-**Nile University · School of Biotechnology**  
-Supervisor: Mohamed Mahmoud Elsayeh
+
 
 ---
 
